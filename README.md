@@ -1,4 +1,4 @@
-# wiki-translation-tool
+# Habitica Wiki (Fandom) Translation Tool
 
 This is a proposal of a text editor designed for wiki translators. Intended features are:
 
