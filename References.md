@@ -6,5 +6,5 @@
 * [PyWikipedia Wiki on Fandom](https://pybot.fandom.com/wiki/Pybot_Wiki)
 * [API:Client code on MediaWiki](https://www.mediawiki.org/wiki/API:Client_code#Python)
 * [API Main Page on MW](https://www.mediawiki.org/wiki/API:Main_page)
-* [Ceterach, Light Weighted MW Interacting Library](https://github.com/Riamse/Ceterach)
-  * [Readthedocs](https://ceterach.readthedocs.io/en/latest/?badge=latest)
+* [WxPython Website](https://wxpython.org)
+  * [Document](https://docs.wxpython.org/wx.1moduleindex.html)
