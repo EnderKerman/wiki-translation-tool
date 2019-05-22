@@ -12,3 +12,7 @@
 * [Another page on bot framworks](https://dev.fandom.com/wiki/List_of_Bot_frameworks)
 * [A more useful API list](https://habitica.fandom.com/zh/api.php)
 * [Fandom dev wiki](https://dev.fandom.com/wiki/Fandom_Developers_Wiki)
+
+# Known Facts on the API
+- It seems ok to preview with the api.
+- Fandom allows user to download whole database of a wiki (might be huge).
