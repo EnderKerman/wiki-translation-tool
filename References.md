@@ -9,3 +9,6 @@
 * [WxPython Website](https://wxpython.org)
   * [Document](https://docs.wxpython.org/wx.1moduleindex.html)
 * [imgkit](https://pypi.org/project/imgkit/), HTML => image renderer
+* [Another page on bot framworks](https://dev.fandom.com/wiki/List_of_Bot_frameworks)
+* [A more useful API list](https://habitica.fandom.com/zh/api.php)
+* [Fandom dev wiki](https://dev.fandom.com/wiki/Fandom_Developers_Wiki)
